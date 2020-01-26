@@ -1,4 +1,6 @@
-"""AF3.0 data analyze script
+"""
+
+AF3.0 data analyze script
 
 Author: Vikram Seshadri
 06/12/2019
@@ -9,6 +11,7 @@ main functions of this script:
     2. Volume from each cycle is calculated.
     3. Samples are counted to determine successful runs.
     4. Total volume is calculated after each cycle.
+
 """
 
 import pandas as pd
